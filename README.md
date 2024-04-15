@@ -1,6 +1,11 @@
-# My Portfolio MVP
 
-This is my MVP portfolio, where poeple can learn more about me.
+
+## My Portfolio MVP
+
+This is my MVP portfolio, where poeple can learn more about me and the work I worked on.
+
+## Technology Used
+Visual studio code
 
 ## Loom video
 
